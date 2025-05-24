@@ -2,7 +2,7 @@
 
 ## 🎯 Aim
 To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
-
+ 
 ## 🧠 Algorithm
 1. Get an input from the user.
 2. Convert the input to an integer and store it in a variable `a`.
